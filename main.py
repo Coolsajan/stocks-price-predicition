@@ -19,8 +19,8 @@ data=GetData()
 list_of_company=("AAPL","MSFT","NVDA","AMZN","GOOG","META","BRK-B","TSLA","AVGO","LLY","WMT","JPM","V","XOM","MA","UNH","COST",
                  "NFLX","JNJ","PG","ORCL","ABBV","HD","BAC","KO")
 #some animitation to make the page attractive
-animation=load_lottiefile(filepath="lottie\\stocks.json")
-error=load_lottiefile(filepath="lottie\\waiting.json")
+animation=load_lottiefile(filepath="lottie/stocks.json")
+error=load_lottiefile(filepath="lottie/waiting.json")
 
 #page layout stats here
 st.header("WELCOME INVESTER 📉🚀🤩 ")

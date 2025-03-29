@@ -1,0 +1,14 @@
+streamlit
+pandas-datareader
+matplotlib
+pandas
+numpy
+nepse
+scikit-learn
+yfinance
+tensorflow
+keras
+plotly
+seaborn
+mplcursors
+streamlit-lottie
